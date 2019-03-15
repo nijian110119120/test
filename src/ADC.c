@@ -1,6 +1,9 @@
 #include "ADC.h"
 
 
+
+
+77777nijian
 /*****************************************************************************
 * Function Name : read_adc
 * Description   : read adc value 
